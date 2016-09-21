@@ -1,5 +1,6 @@
 # Simple Bank App
 This simple application is written in Ruby.
+Testing is done with RSPEC.
 
 ## Specification
 
